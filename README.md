@@ -48,3 +48,7 @@
 ### 画面遷移図
 
 https://www.figma.com/file/OI01e0kCvsG0dy5ros5gWP/Niramekko?node-id=0%3A1
+
+### ER 図
+
+https://drive.google.com/file/d/1uYxkeOibpQnRQJiBOE9VFIjpkLH_GIDc/view?usp=sharing
