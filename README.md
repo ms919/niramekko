@@ -51,4 +51,4 @@ https://www.figma.com/file/OI01e0kCvsG0dy5ros5gWP/Niramekko?node-id=0%3A1
 
 ### ER 図
 
-https://drive.google.com/file/d/1k79cmp92j2Lr5zGe_gR0oX2suX0aFVkj/view?usp=sharing
+https://drive.google.com/file/d/1FBJEp8xaGFqEQJHx8721EXu0vltwOCub/view?usp=sharing
