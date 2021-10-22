@@ -83,6 +83,6 @@ test:
 #
 production:
   <<: *default
-  database: api_production
-  username: api
-  password: <%= ENV['API_DATABASE_PASSWORD'] %>
+  database: # herokuのdb名を入れる
+  username: Rails.application.credentials.production[:db_username]
+  password: Rails.application.credentials.production[:db_password]
