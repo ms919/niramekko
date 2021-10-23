@@ -1,0 +1,59 @@
+html {
+	font-size: 24px;
+}
+body {
+	background-color: #fdcf3d;
+	font-family: "YuGothic";
+	color: #898989;
+}
+header {
+	position: sticky;
+	top: 0;
+	background-color: #44beef;
+	width: 100%;
+	height: 3rem;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+footer {
+	position: fixed;
+	bottom: 0;
+}
+a {
+  text-decoration: none;
+}
+h1 {
+	font-size: 4.5rem;
+	letter-spacing: 0.02em;
+	color: #e43965;
+	text-shadow: 0px 10px 10px rgba(255, 255, 255, 1);
+	margin: 3rem;
+}
+h2 {
+	font-size: 2.5rem;
+	color: #e43965;
+	text-shadow: 0px 4px 4px rgba(255, 255, 255, 1);
+	margin: 5rem;
+}
+.text-center {
+	text-align: center;
+}
+.display-col {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.button {
+  display: inline-block;
+  width: 30rem;
+	box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.25);
+	text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+	border-radius: 70px;
+	padding: 0.5rem 3rem;
+  margin: 1rem;
+	font-size: 2.5rem;
+	font-weight: bold;
+}
+.btn-pink {
+	background-color: #e43965;
+	color: white;
+}
