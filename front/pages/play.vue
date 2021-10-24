@@ -2,6 +2,7 @@
 	<div>
 		<div class="tiktok-wrapper">
 			<component :is="currentComponent"></component>
+			<PlayResult v-if="modalFlg" @close-modal="closeModal" />
 		</div>
 		<div class="icon-wrapper">
 			<fa :icon="faEyeSlash" class="orange icon-size" />
@@ -25,16 +26,28 @@ import {
 } from "@fortawesome/free-solid-svg-icons";
 
 export default {
+	data() {
+		return {
+			modalFlg: false,
+		}
+	},
 	computed: {
-		...mapGetters(["currentComponent"]),
+		...mapGetters(["currentComponent", "itemsPointer"]),
 		faEyeSlash: () => faEyeSlash,
 		faArrowCircleRight: () => faArrowCircleRight,
 	},
 	methods: {
-		gotoNext(){
-			console.log("click front");
-			this.$store.dispatch('gotoNext');
-		}
-	}
+		gotoNext() {
+			if (this.itemsPointer < 4) {
+				this.$store.dispatch("gotoNext");
+			}
+			else {
+				this.modalFlg = true;
+			}
+		},
+		closeModal() {
+			this.modalFlg = false;
+		},
+	},
 };
 </script>
