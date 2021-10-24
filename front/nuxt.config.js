@@ -22,7 +22,7 @@ export default {
 	},
 
 	// Global CSS: https://go.nuxtjs.dev/config-css
-	css: ["~/assets/css/main", "~/assets/css/reset"],
+	css: ["~/assets/css/main", "~/assets/css/reset", "~/assets/css/play"],
 
 	// Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
 	plugins: [],
@@ -38,6 +38,7 @@ export default {
 		// https://go.nuxtjs.dev/axios
 		"@nuxtjs/axios",
 		"@nuxtjs/proxy",
+		"nuxt-fontawesome",
 	],
 
 	// Axios module configuration: https://go.nuxtjs.dev/config-axios
@@ -47,6 +48,10 @@ export default {
 		"/api": {
 			target: "http://localhost:3000/",
 		},
+	},
+
+	fontawesome: {
+		component: "fa",
 	},
 
 	// Build Configuration: https://go.nuxtjs.dev/config-build
