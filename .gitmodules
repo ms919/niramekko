@@ -1,0 +1,6 @@
+[submodule "front"]
+	path = front
+	url = git@github.com:ms919/niramekko_front.git
+[submodule "api"]
+	path = api
+	url = git@github.com:ms919/niramekko_api.git
