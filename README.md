@@ -1,8 +1,9 @@
 # niramekko
-https://www.npmjs.com/package/nuxt/v/2.15.8
-https://rubygems.org/gems/rails/versions/6.1.4.1
-https://www.npmjs.com/package/face-api.js/v/0.22.2
-https://www.npmjs.com/package/vue-chartjs/v/3.5.1
+
+[![nuxt](https://img.shields.io/badge/Nuxt.js-v2.15.8-00DC82.svg?logo=Nuxt.js&style=flat)](https://www.npmjs.com/package/nuxt/v/2.15.8)
+[![rails](https://img.shields.io/badge/Rails-v6.1.4.1-CC0000.svg?logo=rails&style=flat)](https://rubygems.org/gems/rails/versions/6.1.4.1)
+[![face-api](https://img.shields.io/badge/face–api.js-v0.22.2-CB3837.svg?logo=npm&style=flat)](https://www.npmjs.com/package/face-api.js/v/0.22.2)
+[![vue-chartjs](https://img.shields.io/badge/vue–chartjs-v3.5.1-CB3837.svg?logo=npm&style=flat)](https://www.npmjs.com/package/vue-chartjs/v/3.5.1)
 
 https://niramekko.herokuapp.com
 ![ogp](https://user-images.githubusercontent.com/81754336/146897061-f0ef1fff-ec4d-43be-bc53-5f2b68a70bbd.png)
