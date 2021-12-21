@@ -1,9 +1,16 @@
-# niramekko(仮)
+# niramekko
+https://www.npmjs.com/package/nuxt/v/2.15.8
+https://rubygems.org/gems/rails/versions/6.1.4.1
+https://www.npmjs.com/package/face-api.js/v/0.22.2
+https://www.npmjs.com/package/vue-chartjs/v/3.5.1
+
+https://niramekko.herokuapp.com
+![ogp](https://user-images.githubusercontent.com/81754336/146897061-f0ef1fff-ec4d-43be-bc53-5f2b68a70bbd.png)
 
 ### サービス概要
 
-誰かと笑いを共有したい人が自分の笑った動画で人を笑わせられるサービスであり、<br>
-手軽に笑いたい人が短時間でサクッと笑うためのにらめっこゲームです。
+誰かと笑いを共有したい人にとっては、自分の笑った動画で人を笑わせられるサービス。
+手軽におもしろコンテンツに出会いたい人にとっては、短時間でサクッと笑うためのにらめっこゲーム。
 
 ---
 
@@ -34,7 +41,7 @@
 
 ### プロダクト
 
-ソーシャルにらめっこサービス(SNS)。
+ソーシャルにらめっこゲーム。
 
 ### マーケット
 
@@ -52,3 +59,7 @@ https://www.figma.com/file/OI01e0kCvsG0dy5ros5gWP/Niramekko?node-id=0%3A1
 ### ER 図
 
 https://drive.google.com/file/d/1zym08rdBwnNpDXZx7Jkoz2q2FxXsSFq0/view?usp=sharing
+
+### インフラ構成図
+
+![infra](https://user-images.githubusercontent.com/81754336/146894379-5dd75584-4aad-401c-a008-cad224c4f2b9.png)
