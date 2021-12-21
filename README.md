@@ -6,7 +6,7 @@
 [![vue-chartjs](https://img.shields.io/badge/vue–chartjs-v3.5.1-CB3837.svg?logo=npm&style=flat)](https://www.npmjs.com/package/vue-chartjs/v/3.5.1)
 
 https://niramekko.herokuapp.com
-![niramekko_tutorial](https://user-images.githubusercontent.com/81754336/146935737-a08f8d91-20d1-4234-aa11-f7df9a3be957.gif)
+![niramekko_tutorial](https://user-images.githubusercontent.com/81754336/146938002-0dbc2438-56b2-4ced-8c46-ac1023e8c328.gif)
 
 ### サービス概要
 
