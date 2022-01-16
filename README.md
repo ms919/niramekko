@@ -55,7 +55,7 @@ https://niramekko.herokuapp.com
 
 ### ER 図
 
-![ER](https://user-images.githubusercontent.com/81754336/147329771-dde92ec3-ab1d-484c-9de4-90cf8c2ba55d.png)
+![ER](https://user-images.githubusercontent.com/81754336/149649864-73613b45-ece5-4e89-bd94-0c8f5bc2fbfb.png)
 
 ### インフラ構成図
 
